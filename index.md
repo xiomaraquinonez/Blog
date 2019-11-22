@@ -12,8 +12,8 @@ layout: default
 
 ## Friday, 11/22
 
-**Goal:** My goal for today was to get the theme for my Blog website working.
+**Goal:** My goal for today was to get the theme for my Blog working.
 
-**Process:** I used a [Jekyll theme refernece sheet](https://www.jekyll.com.cn/tutorials/convert-site-to-jekyll/) and followed the instructions on how to get the website to become responsive.
+**Process:** I used a [Jekyll theme reference sheet](https://www.jekyll.com.cn/tutorials/convert-site-to-jekyll/) and followed the instructions on how to get the website to become responsive.
 
 **Outcome:** I have a basic website that is able to load all my content, but the theme is still not set on my Blog.
