@@ -18,4 +18,4 @@ layout: default
 
 **Outcome:** I have a basic website that is able to load all my content, but the theme is still not set on my Blog.
 
-**What I tried:** I wrote Markdown today. Markdown is formatting for text that is easy to write and easy to read.
+**What I tried:** I wrote Markdown today. Markdown is formatting for text on Github that is easy to write and easy to read.
