@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 Tuesday, 11/19
 
 Goal: My goal for Tuesday was to add the popup bubbles to big cities on the map on my website.
