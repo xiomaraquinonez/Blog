@@ -42,6 +42,10 @@ layout: default
 
 **git config:** sets the author name and email address to be used with commits
 
+**git init:** used to create a new repository
+
+**git add:** adds a file
+
 **Github Pages:**
 
 **markdown:** formatting for text on Github that is easy to read and write
