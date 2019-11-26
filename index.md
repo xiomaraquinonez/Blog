@@ -32,7 +32,7 @@ layout: default
 
 **:wq:** stands for write and quit, used after changes have been committed
 
-**git status:** lists all the files that have been committed 
+**git status:** shows the status of the files whether they have been commited or not
 
 **git commit -m:** used to type in the commit message
 
@@ -46,6 +46,12 @@ layout: default
 
 **git add:** adds a file
 
+These are the commands I've learned and use for working on my website, News 4 U. News 4 U is a a website that I created using HTML and CSS over the summer with a mentor. News 4 U is used to help teenagers become more aware of current world issues and provides them with ways to get involved in their cities.
+
+The main problem that I ran into with this website was getting the Google Map to work due to the API key not working; however, with time, I was able to fix this using another tool - Mapbox.
+
+For my static files directory set up, I have have folders that were meant to store different parts of the code.
+
 **Github Pages:**
 
 **markdown:** formatting for text on Github that is easy to read and write
@@ -58,3 +64,6 @@ layout: default
 
 **()[]:** used to add links to words/phrases on markdown, phrase goes inside the parenthesis and link goes inside the squared brackets
 
+In order to put the website on Github Pages, I first signed up for Gihub. Then, I got SSH set up. SSH allows users to connect to Github without having to input their login information each time they are modifying their code. Next, I set up my static files on github and moved the index page to the root directory due to a problem with not being able to access it for a while. After a couple weeks of not making any edits, an image was not showing up on one of the pages due to the article from where the image came from being removed from a source. To fix this, I deleted the link and modified the code. Laslty, to fix the final problem of the Google Map, I switched to Mapbox. I created an account for this, set a style that I thought would go well with the website, and used a Mapbox token in place of the previous API key.
+
+**Link to final website:** https://xiomaraquinonez.github.io/MAGIC/#
