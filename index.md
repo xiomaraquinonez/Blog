@@ -19,3 +19,23 @@ layout: default
 **Outcome:** I have a basic website that is able to load all my content, but the theme is still not set on my Blog.
 
 **What I tried:** I wrote Markdown today. Markdown is formatting for text on Github that is easy to write and easy to read.
+
+## Tuesday, 11/26
+
+**Terminal:**
+
+**ls:** stands for list files, which will lead to all files from the current directory being listed
+**cd:** stands for change directory, which allows us to move through files
+**pwd:** stands for print working directory, writes the full pathname for the current directory
+**:wq:** stands for write and quit, used after changes have been committed
+**git status:** lists all the files that have been committed 
+**git commit -m:** used to type in the commit message
+**git push:** sends the committed changes to the repository
+**git pull:** merges changes from server to directory
+**git config:** sets the author name and email address to be used with commits
+
+**Github Pages:**
+
+**markdown:** formatting for text on Github that is easy to read and write
+**##:** used to create titles
+******: used to bold words/letters
