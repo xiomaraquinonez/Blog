@@ -49,3 +49,8 @@ layout: default
 **##:** used to create titles
 
 ******: used to bold words/letters
+
+**index.md:** page where the markdown goes
+
+**()[]:** used to add links to words/phrases on markdown, phrase goes inside the parenthesis and link goes inside the squared brackets
+
