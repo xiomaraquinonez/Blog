@@ -62,7 +62,7 @@ layout: default
 
 I have began using the terminal commands that I learned when working on my website, News 4 U. News 4 U is a a website that I created using HTML and CSS over the summer with a mentor who guided me through the process. News 4 U is used to help teenagers become more aware of current world issues and provides them with ways to get involved in their cities.
 
-The main problem that I ran into with this website was getting the Google Map to work due to the API key not working; however, with time, I was able to fix this using another tool - Mapbox.
+The main problem that I ran into with this website was getting the Google Map to work due to the API key not working. At first, I only had my mentor's API Key. I tried to add the Github domain to my API key, but it did not work. However, I was able to fix this using another tool - Mapbox.
 
 For my static files directory set up, I have have folders that were meant to store different parts of the code.
 
