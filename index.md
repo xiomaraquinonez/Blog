@@ -48,7 +48,7 @@ layout: default
 
 **##:** used to create titles
 
-******: used to bold words/letters
+**: used to bold words/letters
 
 **index.md:** page where the markdown goes
 
