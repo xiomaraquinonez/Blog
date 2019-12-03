@@ -73,12 +73,21 @@ In order to put the website on Github Pages, I first signed up for Gihub. Then, 
 ## Tuesday, 11/26
 
 **brew:** open-source software package that makes the installation of software on a macOS easier
+
 **package manager:** a collection of software tools that automates the process of installing, upgrading, configuring, and removing computer programs for a computer's operating system 
+
 **RVM/RBENV:** Ruby management tools, RVM manages and installs different versions of Ruby, RBENV is a Ruby version management tool
+
 **~/.bash_profile:** a hidden file in Mac's user directory
+
 **source ~/.bash_profile:** the terminal starts with this
+
 **installing a ruby version using rvm:** prepare the system, install RVM, install Ruby version, install Bundler
+
 **\curl -sSL https://get.rvm.io | bash -s stable:** allows RVM to install
+
 **RVM install, RVM use:** enables users to install multiple versions of Ruby and allows version changes, RVM installs each version of Ruby in a hidden folder in home folder so each version of Ruby installed doesn't affect the system Ruby
+
 **touch:** command used to update the access date and/or modification date of a computer file or directory
+
 **bundler:** exit from dependency hell, and ensures that the gems needed are present in development, staging, and production
