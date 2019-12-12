@@ -91,3 +91,11 @@ In order to put the website on Github Pages, I first signed up for Gihub. Then, 
 **touch:** command used to update the access date and/or modification date of a computer file or directory
 
 **bundler:** exit from dependency hell, and ensures that the gems needed are present in development, staging, and production
+
+## Tuesday, December 3
+
+**localhost, 127.0.0.1:** referring to when a server is used on your own computer
+
+**bundle server:** a server for applications using the build-bundle package
+
+**ctrl + c:** a shortcut key used to copy highlighted text or another object into the clipboard 
