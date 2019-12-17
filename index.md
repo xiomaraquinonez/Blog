@@ -99,3 +99,7 @@ In order to put the website on Github Pages, I first signed up for Gihub. Then, 
 **bundle server:** a server for applications using the build-bundle package
 
 **ctrl + c:** a shortcut key used to copy highlighted text or another object into the clipboard 
+
+## Thursday 12/12
+
+I worked on recreating a Breakout Game using HTML, CSS, and JavaScript. The game uses a Canvas to present different blocks that allows users to move keys to move the ball around different places of the Canvas. The game can be found [here](https://github.com/xiomaraquinonez/BreakOutGame) 
