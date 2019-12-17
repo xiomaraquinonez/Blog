@@ -102,4 +102,4 @@ In order to put the website on Github Pages, I first signed up for Gihub. Then, 
 
 ## Thursday 12/12
 
-I worked on recreating a Breakout Game using HTML, CSS, and JavaScript. The game uses a Canvas to present different blocks that allows users to move keys to move the ball around different places of the Canvas. The game can be found [here](https://github.com/xiomaraquinonez/BreakOutGame) 
+I worked on recreating a Breakout Game using HTML, CSS, and JavaScript. The game uses a Canvas to present different blocks that allows users to move keys to move the ball around different places of the Canvas. The game can be found [here](https://github.com/xiomaraquinonez/BreakOutGame#) 
