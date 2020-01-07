@@ -102,4 +102,8 @@ In order to put the website on Github Pages, I first signed up for Gihub. Then, 
 
 ## Thursday 12/12
 
-I worked on recreating a Breakout Game using HTML, CSS, and JavaScript. The game uses a Canvas to present different blocks that allows users to move keys to move the ball around different places of the Canvas. The game can be found [here](https://xiomaraquinonez.github.io/BreakOutGame/#) 
+I worked on recreating a Breakout Game using HTML, CSS, and JavaScript. The game uses a Canvas to present different blocks that allows users to move keys to move the ball around different places of the Canvas. The game can be found [here.](https://xiomaraquinonez.github.io/BreakOutGame/#) 
+
+## Tuesday, 1/07
+
+Today, I worked on recreating a Drawing App following the instructions from this [website.](https://medium.com/@jagadeshanh/html5-canvas-click-and-draw-f665e02f5744) This drawing app was created using HTML and JavaScript. The game has a black background color and draws using different colors each time. I then created a repository using the terminal command lines.
