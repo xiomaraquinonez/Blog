@@ -106,4 +106,4 @@ I worked on recreating a Breakout Game using HTML, CSS, and JavaScript. The game
 
 ## Tuesday, 1/07
 
-Today, I worked on recreating a Drawing App following the instructions from this [website.](https://medium.com/@jagadeshanh/html5-canvas-click-and-draw-f665e02f5744) This drawing app was created using HTML and JavaScript. The game has a black background color and draws using different colors each time. I then created a repository using the terminal command lines.
+Today, I worked on recreating a Drawing App following the instructions from this [website.](https://medium.com/@jagadeshanh/html5-canvas-click-and-draw-f665e02f5744) This drawing app was created using HTML and JavaScript. The game has a black background color and draws using different colors each time. I then created a repository using the terminal command lines. The Drawing App can be found [here.](https://xiomaraquinonez.github.io/drawing-app-2/)
