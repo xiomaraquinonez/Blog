@@ -111,3 +111,7 @@ Today, I worked on recreating a Drawing App following the instructions from this
 ## Tuesday, 1/21
 
 Today, I made changes to the Drawing App. I added game instructions and a clear button. I did this by changing the sizing of the canvas and by including new functions such as clearcanvas. I used HTML, CSS, and JavaScript for this. The game can be played [here.](https://xiomaraquinonez.github.io/drawing-app-2/)
+
+## Tuesday, 1/28
+
+I am beginning to work with APIs. I began by watching a video and completing some readings to learn more about what APIs are, what they do, and the kind of APIs that I can work with. API stands for Application Programming Interface and works to allow applications to communicate with one another. I am following the instructions on this [website.](http://apionrails.icalialabs.com/book/chapter_two)
