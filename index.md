@@ -92,7 +92,7 @@ In order to put the website on Github Pages, I first signed up for Gihub. Then, 
 
 **bundler:** exit from dependency hell, and ensures that the gems needed are present in development, staging, and production
 
-## Tuesday, December 3
+## Tuesday, 12/03
 
 **localhost, 127.0.0.1:** referring to when a server is used on your own computer
 
