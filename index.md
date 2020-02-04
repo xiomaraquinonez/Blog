@@ -115,3 +115,21 @@ Today, I made changes to the Drawing App. I added game instructions and a clear 
 ## Tuesday, 1/28
 
 I am beginning to work with APIs. I began by watching a video and completing some readings to learn more about what APIs are, what they do, and the kind of APIs that I can work with. API stands for Application Programming Interface and works to allow applications to communicate with one another. I am following the instructions on this [website.](http://apionrails.icalialabs.com/book/chapter_two)
+
+## Tuesday, 2/04
+
+An API allows a piece of software to communciate with another piece of software. APIs generate data in an easier way. To use an API, you create a URL, which is built with pre-defined blocks of data that work as keys to identify values. API URLs have different parts, which allow you to understand different parts of an API. For example, the ampersand character is used to split the key value pairs and a question mark is used to indicate the start of the query string. An API does not need to contain a frontend.
+
+**pow:** a zero-configuration Rack server that allows local apps to run locally
+
+**prax:** a pure Ruby alternative to Pow
+
+**subdomains:** a domain that is part of another domain
+
+**AngularJS:** a structural framework for dynamic web apps, it lets you use HTML as your template language and lets you extend HTML's syntax to express your application's components 
+
+**Ember.js:** an open-source JavaScript web framework
+
+**JSON:** stands for JavasScript Object Notation, it allows data to be stored and transported
+
+**bundle exec rspec:** used to run tests
